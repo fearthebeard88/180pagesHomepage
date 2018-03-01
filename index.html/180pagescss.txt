@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: white;
+  
+}
+
+.projects {
+  color: red;
+}
+
+a {
+  color: cyan;
+}
+button {
+  background-color: red;
+  color: cyan;
+}
+
+input {
+  background-color: red;
+  color: cyan;
+}
+
+::placeholder {
+  color: cyan;
+  opacity: 1;
+}
+
+.nav-bar {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: red;
+  width: flex;
+  color: black;
+  font-size: 17px;
+  position: fixed;
+}
+
+.nav-bar > * {
+  width: 100px;
+  border-right: 1px solid #FF0000;
+  text-align: center;
+}

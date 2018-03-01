@@ -1,0 +1,46 @@
+<!DOCTYPE>
+<html>
+<div class="whole">
+
+<head>
+  <title>180 Websites (not) in 180 days</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <ul class="nav-bar">
+    <li><a href=#>Top</a></li>
+    <li><a href="#Projects">Projects</a></li>
+    <li><a href="#Contact Me">Contact Me</a></li>
+  </ul>
+    
+</head>
+
+  <br><br><br>
+  
+<header>
+  <a id="Top"></a><h1>My 180 <em>(not in 180 days)</em> websites.</h1>
+  <p>My Name is Tim Ferris, and I am a beginner programmer, and these are my <strong>starting</strong> projects...Blog to come (probably...).</p>
+</header>
+  
+  <hr color="white">
+  
+  <a id= "Projects"></a>
+  <ol class="projects">
+    <li><a href="https://codepen.io/Fearthebeard88/pen/dJxaJp">Project 1: Homepage</a></li>
+    <li><a href="https://codepen.io/Fearthebeard88/full/KQPVpg/" target="blank">Project 2:Pick a door!</a></li>
+    <li><a href="https://codepen.io/Fearthebeard88/full/QQboda/">Random Colors</a></li>
+    <li><em>Coming Soon...</em></li>
+  </ol>
+
+  <hr color="white">
+ 
+  <p><a id="Contact Me">Contact me for feedback and/or suggestions.  Honestly, I'm a noob, so if you have helpful comments, please <ul>PLEASE</ul> send me help.  If you want a reply, be sure to leave an email address I can reply to.</a></p>
+  <form action="mailto:tferris88@gmail.com" method="post" enctype="text/plain">
+    <input type="text" name="mail" placeholder="Send me your hatemail!!!" required size="100">
+    <button class="btn btn-red" type="submit">Send</button>
+    <br><br>
+</div>
+  
+  
+
+
+
+</html>

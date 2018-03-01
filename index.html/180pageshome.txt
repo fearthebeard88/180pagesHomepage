@@ -1,8 +1,12 @@
 <!DOCTYPE>
 <html>
+<head>
+<link rel = "stylesheet" type = "text/css" href = "180pagescss.txt">
+</head>
+
 <div class="whole">
 
-<head>
+<header>
   <title>180 Websites (not) in 180 days</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <ul class="nav-bar">
